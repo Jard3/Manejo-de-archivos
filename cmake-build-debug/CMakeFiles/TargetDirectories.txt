@@ -1,0 +1,3 @@
+C:/Users/jrodr/CLionProjects/algoritmo/cmake-build-debug/CMakeFiles/algoritmo.dir
+C:/Users/jrodr/CLionProjects/algoritmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jrodr/CLionProjects/algoritmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
